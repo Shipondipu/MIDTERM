@@ -1,0 +1,28 @@
+body  {
+    font-family: 'Roboto', sans-serif;
+    color: #367c56;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, footer {
+    background-color: #222;
+    color: #f50000;
+    text-align: centre;
+    padding: 10px 0;
+}
+
+nav ul  {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li a  {
+    color: cgb (36, 0, 238) ;
+    text-decoration: none;
+    font-family : 'Montserrat' , sans-serif; 
+}
+
+nav ul li a:hover  {
+    color: #ffd000;
+}

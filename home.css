@@ -1,0 +1,14 @@
+.home-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .home-content .intro, .home-content .promo-image {
+    flex: 1;
+  }
+  
+  .promo-image img {
+    max-width: 100%;
+  }
